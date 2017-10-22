@@ -28,3 +28,9 @@ To execute my projects you will need a system that satisfies below dependencies.
 
 ### Spark Architechture
 ![Alt](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAb5AAAAJDUwZGZmZWEwLWNhZGEtNDc4NC1hOTkyLTVjMTNiYmUzNjVmNw.png)
+
+## References
+- [Apache Spark](https://spark.apache.org/)
+- [Media Licdn](https://media.licdn.com/)
+- [Pieraian Data](http://www.pieriandata.com/)
+- [SparkSQL Tutorial](https://www.tutorialspoint.com/spark_sql/spark_sql_quick_guide.htm)
