@@ -13,8 +13,8 @@ To execute my projects you will need a system that satisfies below dependencies.
 
 ## Projects
 ### Spark DataFrame API
-The code for spark DataFrameAPI can be found [here.]()
+The code for spark DataFrameAPI can be found [here.](https://github.com/jubins/Spark-Projects/blob/master/Spark_DataFrame_API_Project/Spark_DataFrames_API.ipynb)
 
 ### Walmart Data Analysis on Spark
-The code and project for Walmart data analysis can be found [here.]()
+The code and project for Walmart data analysis can be found [here.](https://github.com/jubins/Spark-Projects/blob/master/Spark_Walmart_Data_Analysis_Project/Spark%20Walmart%20Data%20Analysis%20Project.ipynb)
 
